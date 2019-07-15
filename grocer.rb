@@ -1,7 +1,9 @@
 def consolidate_cart(cart)
-  # code here
-end
+  if key.count > 1,
 
+end
+#h1.merge(h2)   #=> {"a"=>100, "b"=>254, "c"=>300}
+#h1.merge(h2){|key, oldval, newval| newval - oldval}
 def apply_coupons(cart, coupons)
   # code here
 end
